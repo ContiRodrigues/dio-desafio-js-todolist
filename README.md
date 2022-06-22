@@ -29,11 +29,7 @@ Tente fazer seguindo as instruções abaixo:
 
 O resultado esperado é parecido com este:
 
-<p>
-    <img src="https://github.com/ContiRodrigues/dio-desafio-js-todolist/tree/master/assets/img/exemplo.pgn" alt="Imagem Exemplo"/>
-</p>
-
-
+ ![exemplo](https://user-images.githubusercontent.com/106720974/175063998-7c5b16f6-34d4-4c4e-ac15-74eeb587ae5a.png)
 
 
 Embora nosso resultado tenha sido estilizado um pouco diferente: **Todos os desafios foram cumpridos!**
